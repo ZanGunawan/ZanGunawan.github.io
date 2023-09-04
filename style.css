@@ -411,6 +411,10 @@ nav ul {
     margin: 20px 0 30px;
 }
 
+.img-contact svg:hover {
+    fill: rgb(168, 165, 165);
+}
+
 .contact-cover .img-contact {
     display: flex;
     align-items: center;
