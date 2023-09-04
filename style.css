@@ -411,7 +411,7 @@ nav ul {
     margin: 20px 0 30px;
 }
 
-.img-contact svg:hover {
+.contact-cover .img-contact svg:hover {
     fill: rgb(168, 165, 165);
 }
 
